@@ -1,0 +1,50 @@
+body {
+    margin: 0 auto;
+    max-width:600px ;
+    padding: 20px;
+    background-image: url('resources/360_F_293164580_Msy22GeO1P1mfB0l6RcjDJlDTZK91MvE.jpg'); 
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arial', sans-serif;
+      margin-top: 20px;
+      border-radius: 8px;
+        }
+header {
+    background-color:lightcoral;
+    color: black;
+    text-align: center;
+    font-size: larger;
+}
+
+nav {
+    background-color:lightcoral;
+    color: white;
+    padding: 0.5em;
+}
+h2 {
+    text-align: center;
+  }
+p {
+    text-align: center;
+}
+.content {
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+content {
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px; 
+  }
+  
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
